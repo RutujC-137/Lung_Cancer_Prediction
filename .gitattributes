@@ -1,0 +1,6 @@
+Lung_Cancer.csv filter=lfs diff=lfs merge=lfs -text
+preprocessed_lung_cancer_output/part-00000-215f17c3-3f9b-4132-9f8d-7253c27e8bf7-c000.csv filter=lfs diff=lfs merge=lfs -text
+pickle/best_lung_cancer_model.pkl filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
